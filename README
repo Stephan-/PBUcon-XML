@@ -1,0 +1,4 @@
+PBUCON is a PunkBuster Server facility that allows server admins to obtain a remote UDP based console with a running PunkBuster Server version 1.225 or higher. Admins can use PBUCON to stream PB logging and optionally issue remote commands and optionally (for some games) stream normal game server logging. PBUCON allows concurrent real-time streaming of PB logging to multiple remote hosts and also does not require any special firewall configuration as it uses the same socket and port used by the running PunkBuster server for communication.
+
+http://www.evenbalance.com/index.php?page=pbucon.php
+
