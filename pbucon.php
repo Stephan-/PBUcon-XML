@@ -37,7 +37,6 @@ $item7="</item>\n";
 
 $_SESSION['server'] = "";
 $_SESSION['befehl'] = "";
-$rcon = "";
 
 session_start();
  
